@@ -2,7 +2,7 @@
 <img src="https://komarev.com/ghpvc/?username=shreejankhanal&color=00C9A7&style=flat-square" alt="Profile views"/>
 </p>
 
-<h1 align="center">Hey, I'm shreejan Koirala 👋</h1>
+<h1 align="center">Hey, I'm shreejankhanal 👋</h1>
 
 <h3 align="center">Aspiring Developer | Python Learner | Tech Enthusiast</h3>
 
