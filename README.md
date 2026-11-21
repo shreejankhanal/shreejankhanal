@@ -20,8 +20,9 @@ Hey! I'm shreejan, an aspiring developer with a growing interest in programming 
 🧠 Enjoy learning new concepts and improving my problem-solving skills.
 📚 Always curious about technology and what's possible with code.
 🎯 Focused on learning, experimenting, and growing as a developer.
-📫 Reach me at: **shreejan.khanal@gmail.com**
-🛠️ Technologies & Tools
+📫 Reach me at: **khanalshreejan08@gmail.com**
+
+🛠️ Technologies & Tools:
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,vscode,git,github" alt="Technologies and tools I'm exploring"/>
